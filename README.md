@@ -12,6 +12,7 @@ The goal of this project is to build an intelligent chatbot capable of assisting
 - Scientific research assistant using arXiv dataset
 - Multimodal chatbot (text + image understanding)
 - Multilingual chatbot support
+- Sentiment-aware chatbot that detects user emotions (Positive, Negative, Neutral) and responds accordingly
 
 ## Technologies Used
 - Python
